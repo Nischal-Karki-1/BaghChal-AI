@@ -86,11 +86,6 @@ git clone https://github.com/Nischal-Karki-1/BaghChal-AI.git
 </div>
 <br><br>
 
-<div align="center">
-  <img alt="Screenshot 4" 
-       src="https://github.com/user-attachments/assets/2088cd18-0ef-44aa-8bda-e1631905cdc3">
-</div>
-<br><br>
 
 <div align="center">
   <img  alt="Screenshot 5" 
