@@ -54,9 +54,11 @@ git clone https://github.com/Nischal-Karki-1/BaghChal-AI.git
     2. Press ```Ctrl+Shift+B```, click ```Run and Debug``` to execute the project.
 - **Enjoy the Game!**
 ## Min-Max Algorithm
-Implementaion of Min-Max Algorithm
+- **Implementaion of Min-Max Algorithm**
+<div align="center">
  <img width="529" alt="image" src="https://github.com/user-attachments/assets/64b0a16b-9d32-4869-a352-86a679b07529">
- 
+</div>
+
  #### **Working**
 - Prepare the complete Game Tree.
 - Evaluate the score of each branch, using the evaluation function.
@@ -66,5 +68,49 @@ Implementaion of Min-Max Algorithm
 - It is based on these values/scores that the quality (good or bad) of the move is decided.
 -  At the root node, the node with the max value is selected and the corresponding move is performed.
 ## Screenshots
+<div align="center">
+  <img  alt="Screenshot 1" 
+       src="https://github.com/user-attachments/assets/d022f6cc-750a-4215-a775-eb616e8525f8">
+</div>
+<br><br>
 
+<div align="center">
+  <img  alt="Screenshot 2" 
+       src="https://github.com/user-attachments/assets/75f199db-06f1-4dbd-83f1-e32cb6dafaef">
+</div>
+<br><br>
 
+<div align="center">
+  <img  alt="Screenshot 3" 
+       src="https://github.com/user-attachments/assets/c8f915fd-48dd-494c-86aa-6bfa47fba24e">
+</div>
+<br><br>
+
+<div align="center">
+  <img alt="Screenshot 4" 
+       src="https://github.com/user-attachments/assets/2088cd18-0ef-44aa-8bda-e1631905cdc3">
+</div>
+<br><br>
+
+<div align="center">
+  <img width="800" height="606" alt="Screenshot 5" 
+       src="https://github.com/user-attachments/assets/2b50dcb8-f1ef-4fcd-a087-cb735c384f8c">
+</div>
+<br><br>
+
+<div align="center">
+  <img  alt="Screenshot 6" 
+       src="https://github.com/user-attachments/assets/81c0eedd-cc4f-4725-8844-22d4d7f4fb70">
+</div>
+<br><br>
+
+<div align="center">
+  <img alt="Screenshot 7" 
+       src="https://github.com/user-attachments/assets/4340ed44-9319-4ec2-a4c3-3180fb69052c">
+</div>
+<br><br>
+
+<div align="center">
+  <img alt="Screenshot 8" 
+       src="https://github.com/user-attachments/assets/72592617-74f1-46e2-951a-dda9ac7172d3">
+</div>
