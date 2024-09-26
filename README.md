@@ -54,8 +54,10 @@ git clone https://github.com/Nischal-Karki-1/BaghChal-AI.git
     2. Press ```Ctrl+Shift+B```, click ```Run and Debug``` to execute the project.
 - **Enjoy the Game!**
 ## Min-Max Algorithm
+Implementaion of Min-Max Algorithm
+ <img width="529" alt="image" src="https://github.com/user-attachments/assets/64b0a16b-9d32-4869-a352-86a679b07529">
+ 
  #### **Working**
-
 - Prepare the complete Game Tree.
 - Evaluate the score of each branch, using the evaluation function.
 - Back-up score from the nodes to the root by:
