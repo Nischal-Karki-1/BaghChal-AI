@@ -67,45 +67,57 @@ git clone https://github.com/Nischal-Karki-1/BaghChal-AI.git
     - Selecting the child node with the minimum score for Min player.
 - It is based on these values/scores that the quality (good or bad) of the move is decided.
 -  At the root node, the node with the max value is selected and the corresponding move is performed.
+-  
 ## Screenshots
+- #### Home Page
 <div align="center">
-  <img  alt="Screenshot 1" 
-       src="https://github.com/user-attachments/assets/d022f6cc-750a-4215-a775-eb616e8525f8">
+ <img width="500" alt="Screenshot 2024-09-26 165030" src="https://github.com/user-attachments/assets/a06c1c1a-ed49-4f3e-8922-89d48d426394">
+
 </div>
-<br><br>
+<br>
 
+- #### Game Page
 <div align="center">
-  <img  alt="Screenshot 2" 
-       src="https://github.com/user-attachments/assets/75f199db-06f1-4dbd-83f1-e32cb6dafaef">
+<img width="500" alt="Screenshot 2024-09-26 165103" src="https://github.com/user-attachments/assets/1f4a2414-ee5a-4d0b-b7c9-438b41d0ea55">
+
 </div>
-<br><br>
+<br>
 
+- #### Goat Placement
 <div align="center">
-  <img  alt="Screenshot 3" 
-       src="https://github.com/user-attachments/assets/c8f915fd-48dd-494c-86aa-6bfa47fba24e">
+  <img width="500" alt="Screenshot 2024-09-26 165143" src="https://github.com/user-attachments/assets/6e922bc4-fc83-4839-8c19-6e4c38471fba">
+
 </div>
-<br><br>
+<br>
 
-
-<div align="center">
-  <img  alt="Screenshot 5" 
-       src="https://github.com/user-attachments/assets/2b50dcb8-f1ef-4fcd-a087-cb735c384f8c">
+- #### Tiger Selection
+- <div align="center">
+    <img width="500" alt="Screenshot 2024-09-26 165218" src="https://github.com/user-attachments/assets/a8bbf5c9-1c28-444e-88b3-4a12398fc2bf">
 </div>
-<br><br>
+<br>
 
+- #### Goat Defeating Move (Before)
 <div align="center">
-  <img  alt="Screenshot 6" 
-       src="https://github.com/user-attachments/assets/81c0eedd-cc4f-4725-8844-22d4d7f4fb70">
+  <img width="500" alt="Screenshot 2024-09-26 165241" src="https://github.com/user-attachments/assets/e34f70bd-75b1-4fee-8aa9-1751290d5c0b">
 </div>
-<br><br>
+<br>
 
+- #### Goat Defeating Move (After)
 <div align="center">
-  <img alt="Screenshot 7" 
-       src="https://github.com/user-attachments/assets/4340ed44-9319-4ec2-a4c3-3180fb69052c">
+ <img width="500" alt="Screenshot 2024-09-26 165304" src="https://github.com/user-attachments/assets/37024d6e-aeed-4543-a4a4-e6f91440df7b">
+
 </div>
-<br><br>
+<br>
 
+- #### Tiger Victorious
 <div align="center">
-  <img alt="Screenshot 8" 
-       src="https://github.com/user-attachments/assets/72592617-74f1-46e2-951a-dda9ac7172d3">
+  <img width="500" alt="Screenshot 2024-09-26 165327" src="https://github.com/user-attachments/assets/2ee1393e-2872-4471-af08-e9bf34d56667">
+
+</div>
+<br>
+
+- #### Goat Victorious
+<div align="center">
+  <img width="500" alt="Screenshot 2024-09-26 165351" src="https://github.com/user-attachments/assets/f1a06293-8b2c-4699-8c85-f168ac53c4a1">
+
 </div>
